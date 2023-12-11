@@ -1,6 +1,6 @@
 # Helpful GPTs, Agents and more
 A repository to list helpful GPTs, Agents and more.
 
-# GPTs
+# Awesome GPTs
 
-1. [GPT-3](https://openai.com/blog/openai-api/) - The original GPT-3 from OpenAI
+1. [Global News Analyzer](https://chat.openai.com/g/g-4DUw4UFBs-global-news-analyzer) - Responsive and transparent in visualizing global news data.
